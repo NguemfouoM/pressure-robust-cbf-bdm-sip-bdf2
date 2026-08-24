@@ -1,0 +1,29 @@
+{
+  "title": "Reproducibility package for Pressure-Robust and Exactly Divergence-Free Mixed Finite Elements for Unsteady Thermally Coupled Brinkman--Forchheimer Flow",
+  "upload_type": "software",
+  "publication_date": "2026-08-24",
+  "version": "1.0.0",
+  "description": "FEniCSx reproducibility package for an exactly divergence-free, pressure-robust BDM--DG/SIP and BDF2 discretization of an unsteady thermally coupled convective Brinkman--Forchheimer system. The archive contains manufactured convergence data, mass-conservation diagnostics, direct gradient-force pressure-robustness tests, fixed-mesh BDF2 temporal convergence tests, and complex-domain nonlinear-drag simulations.",
+  "creators": [
+    {
+      "name": "Nguemfouo, Marcial",
+      "affiliation": "Department of Mathematics and Applied Mathematics, North-West University, Potchefstroom, South Africa; Department of Mathematics, University of Yaounde I, Yaounde, Cameroon"
+    },
+    {
+      "name": "Djoko, Jules Kamdem",
+      "affiliation": "Department of Mathematics and Applied Mathematics, North-West University, Potchefstroom, South Africa"
+    }
+  ],
+  "keywords": [
+    "Brinkman--Forchheimer equations",
+    "thermally coupled flow",
+    "H(div)-conforming finite elements",
+    "Brezzi--Douglas--Marini elements",
+    "symmetric interior penalty",
+    "pressure robustness",
+    "exact mass conservation",
+    "BDF2",
+    "FEniCSx"
+  ],
+  "access_right": "open"
+}

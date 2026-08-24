@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.tmp
+# Local/generated field output can be large
+results/**/fields/

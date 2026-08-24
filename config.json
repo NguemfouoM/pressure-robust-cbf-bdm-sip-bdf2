@@ -1,0 +1,20 @@
+{
+  "meshes": [8, 16, 32, 64],
+  "final_time": 1.0,
+  "dt_factor": 0.2,
+  "degree": 1,
+  "alpha": 1.0,
+  "beta_f": 1.0,
+  "forchheimer_r": 3.0,
+  "gamma": 1.0,
+  "temperature_reference": 0.0,
+  "gravity": [0.0, -1.0],
+  "nu_0": 1.0,
+  "nu_slope": 0.1,
+  "kappa_0": 1.0,
+  "kappa_slope": 0.1,
+  "sip_penalty": 20.0,
+  "snes_rtol": 1e-9,
+  "snes_atol": 1e-11,
+  "snes_max_it": 40
+}

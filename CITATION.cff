@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated manuscript and the archived Zenodo release."
+title: "Reproducibility package for Pressure-Robust and Exactly Divergence-Free Mixed Finite Elements for Unsteady Thermally Coupled Brinkman--Forchheimer Flow"
+type: software
+authors:
+  - family-names: Nguemfouo
+    given-names: Marcial
+  - family-names: Djoko
+    given-names: Jules Kamdem
+version: 1.0.0
+date-released: 2026-08-24
+keywords:
+  - Brinkman--Forchheimer
+  - thermally coupled flow
+  - H(div)-conforming finite elements
+  - Brezzi--Douglas--Marini
+  - pressure robustness
+  - exact mass conservation
+  - BDF2
